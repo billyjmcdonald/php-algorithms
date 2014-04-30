@@ -1,5 +1,5 @@
 <? /*
-* @description The following is a PHP example of the famous "merge sort" algorithm.
+* @description The following is a simple PHP example recursion at work
 * @author Billy McDonald <billyjmcdonald@gmail.com>
 */
 
